@@ -10970,6 +10970,10 @@ a.article-nav-next span {
 }
 .navbar-main .navbar-item.is-active {
   background-color: transparent;
+  color: #8b53ff;
+}
+.navbar-main .navbar-item:hover {
+  color: #8b53ff;
 }
 @media screen and (max-width: 1087px) {
   .navbar-main .navbar-menu {
